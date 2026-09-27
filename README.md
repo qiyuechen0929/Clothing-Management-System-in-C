@@ -1,5 +1,10 @@
 # 服装管理系统
 
+![banner](banner.svg)
+
+![Language](https://img.shields.io/badge/Language-C-A8B9CC) ![Feature](https://img.shields.io/badge/Feature-进销存%20·%20持久化-green) ![Type](https://img.shields.io/badge/Type-课程设计-7c3aed)
+
+
 ## 项目介绍
 这是一个用C语言编写的小型服装管理系统，实现了服装信息的录入、增删改查、购物车功能以及数据统计分析等功能。
 
